@@ -6,7 +6,8 @@ Estoy intentando ver si puedo hacer un texto en Markdown y sale:
 * Un segundo elemento.
 * Un tercero con una sublista numerada.
     1. Ahí va un elemento numerado 1.
-	    2. El segundo elemento numerado.
+    2. El segundo elemento numerado.
+
 * Último elemento de la lista principal.
 
 Seguimos con un párrafo.
